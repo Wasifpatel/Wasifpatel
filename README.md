@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pranav Kulkarni</h1>
-<h3 align="center">Student at PCCoE, Pune🌟.</h3>
+<h1 align="center">Hi 👋, I'm Wasif Patel</h1>
+<h3 align="center">Student at DYPCET, Kolhapur🌟.</h3>
 
 <br>
 
@@ -12,15 +12,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning **Full Stack Web Development(Node.js and Express) and Spring Boot**
+- 🌱 I’m currently learning **Full Stack Web Development(Node.js and Express)**
 
-- 🔭 I’m currently working on **ERP Software and also Print Management Software for PCCoE Xerox Center**
+- 📫 How to reach me **wasifpatel007@gmail.com**
 
-- 📫 How to reach me **pranavkulkarni1110@gmail.com**
-
-- 💬 Ask me about **Java,Servlets,JSP**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Food, Music🎵& Travel are the reasons to live.
 
 
 
@@ -31,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pranavk2905/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/wasif-patel/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://fb.com/" target="blank"><img align="center"
