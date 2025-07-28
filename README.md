@@ -14,9 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/wasifpateL_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyasgadave" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/wasif-patel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas gadave" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_beingwasif_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanush___777" height="30" width="40" /></a>
+<a href="https://x.com/wasifpateL_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wasifpatel007" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wasif-patel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasifpatel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_beingwasif_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wasifpatel" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/wasifpatel007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wasifpatel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
