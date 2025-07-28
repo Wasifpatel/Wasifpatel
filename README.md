@@ -1,6 +1,6 @@
 <img src="header_1.png" alt="Header Image" style="width: 100%;" />
-<h1 align="center">Hi 👋, I'm Shreyas Gadave</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h1 align="center">Hi 👋, I'm Wasif Patel</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasgadave&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasgadave" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **shreyasgadave777@gmail.com**
+- 📫 How to reach me **wasifpatel007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
