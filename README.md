@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Wasif Patel</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasgadave&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasgadave" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wasifpatel&label=Profile%20views&color=0e75b6&style=flat" alt="Wasifpatel" /> </p>
 
 - 🔭 I’m currently working on **FullStack**
 
